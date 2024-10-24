@@ -52,6 +52,7 @@ The model is trained using the following steps:
 1. **Mediapipe** is used to extract keypoints from images in the Yoga-82 dataset.
 2. The extracted keypoints are then used as input features to the classification model.
 3. Achieved **99% accuracy** on test data using a custom architecture built on top of keypoints.
+
 ![image](https://github.com/user-attachments/assets/c05d7f96-b061-441d-8328-62177213bc50)
 
 ## Contribution 🤝
