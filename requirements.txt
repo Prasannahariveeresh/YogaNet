@@ -5,3 +5,4 @@ tensorflow
 numpy
 pandas
 scikit-learn
+mediapipe==0.10.0
